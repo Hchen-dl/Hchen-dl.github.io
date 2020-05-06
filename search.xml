@@ -143,4 +143,13 @@
         <tag>diary</tag>
       </tags>
   </entry>
+  <entry>
+    <title>20200506_hexo</title>
+    <url>/2020/05/06/20200506-hexo/</url>
+    <content><![CDATA[<p>将主题配置文件/next/_config.yml文件内menu下的archives 键值||前的空格删除可以删除%20，避免出现404现象。</p>
+]]></content>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
 </search>
