@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-06T03:23:38.662Z</updated>
+  <updated>2020-05-06T05:20:33.397Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2020/05/06/20200506-hexo/"/>
     <id>http://yoursite.com/2020/05/06/20200506-hexo/</id>
     <published>2020-05-06T02:29:11.000Z</published>
-    <updated>2020-05-06T03:23:38.662Z</updated>
+    <updated>2020-05-06T05:20:33.397Z</updated>
     
-    <content type="html"><![CDATA[<p>将主题配置文件/next/_config.yml文件内menu下的archives 键值||前的空格删除可以删除%20，避免出现404现象。</p><p>自己的hexo s和hexo d无法使用，npm install后仍无法使用，发现是根目录下_config.yml的plugins出错。</p>]]></content>
+    <content type="html"><![CDATA[<p>将主题配置文件/next/_config.yml文件内menu下的archives 键值||前的空格删除可以删除%20，避免出现404现象。</p><p>自己的hexo s和hexo d无法使用，npm install后仍无法使用，发现是根目录下_config.yml的plugins出错。</p><h2 id="RSS订阅"><a href="#RSS订阅" class="headerlink" title="RSS订阅"></a>RSS订阅</h2><p><strong>Q:</strong> 为什么打开 atom.xml 是一段莫名其妙的代码？<br><strong>A:</strong> 你的浏览器没有自动跳转，可以更换浏览器，检查是否安装了 RSS 阅读器，或者直接订阅 URL</p>]]></content>
     
     <summary type="html">
     
