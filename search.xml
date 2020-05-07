@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>20200216小记</title>
+    <url>/2020/02/16/20200216%E5%B0%8F%E8%AE%B0/</url>
+    <content><![CDATA[<p>《被讨厌的勇气》</p>
+<p>上午上了一上午的直播课，下午和晚上基本都看哲学去了。</p>
+<p>让我来看看吃饱没事干的人都在干什么。</p>
+<p>阿勒德的“目的论”，他不注重著述，更喜欢跟人在咖啡店聊天。</p>
+<p>有点毒，辛辣。</p>
+<p>抨击弗洛伊德因果律过于简单，自己归结为勇气律不也过于简单么？</p>
+<p>不可能在人际关系中不受伤，但也不能因噎废食。</p>
+<p>晚上因为楼下卫生间被占着不能洗澡，硬生生从七点拖到了十点上床。/捂脸。强行多看了两三个小时的书。</p>
+]]></content>
+      <tags>
+        <tag>diary</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20200506_hexo</title>
+    <url>/2020/05/06/20200506-hexo/</url>
+    <content><![CDATA[<p>将主题配置文件/next/_config.yml文件内menu下的archives 键值||前的空格删除可以删除%20，避免出现404现象。</p>
+<p>自己的hexo s和hexo d无法使用，npm install后仍无法使用，发现是根目录下_config.yml的plugins出错。</p>
+<h2 id="RSS订阅"><a href="#RSS订阅" class="headerlink" title="RSS订阅"></a>RSS订阅</h2><p><strong>Q:</strong> 为什么打开 atom.xml 是一段莫名其妙的代码？<br><strong>A:</strong> 你的浏览器没有自动跳转，可以更换浏览器，检查是否安装了 RSS 阅读器，或者直接订阅 URL</p>
+]]></content>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>diary_1</title>
     <url>/2020/02/01/2020diary01/</url>
     <content><![CDATA[<p>弄了一个晚上，终于在笔记本上搭好了hexo，之前的markdown语法和图片显示的问题没有解决。</p>
@@ -31,24 +58,6 @@
       <tags>
         <tag>diary</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2020/02/01/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
   </entry>
   <entry>
     <title>diary-3-heartstone</title>
@@ -128,31 +137,22 @@
       </tags>
   </entry>
   <entry>
-    <title>20200216小记</title>
-    <url>/2020/02/16/20200216%E5%B0%8F%E8%AE%B0/</url>
-    <content><![CDATA[<p>《被讨厌的勇气》</p>
-<p>上午上了一上午的直播课，下午和晚上基本都看哲学去了。</p>
-<p>让我来看看吃饱没事干的人都在干什么。</p>
-<p>阿勒德的“目的论”，他不注重著述，更喜欢跟人在咖啡店聊天。</p>
-<p>有点毒，辛辣。</p>
-<p>抨击弗洛伊德因果律过于简单，自己归结为勇气律不也过于简单么？</p>
-<p>不可能在人际关系中不受伤，但也不能因噎废食。</p>
-<p>晚上因为楼下卫生间被占着不能洗澡，硬生生从七点拖到了十点上床。/捂脸。强行多看了两三个小时的书。</p>
+    <title>Hello World</title>
+    <url>/2020/02/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
-      <tags>
-        <tag>diary</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20200506_hexo</title>
-    <url>/2020/05/06/20200506-hexo/</url>
-    <content><![CDATA[<p>将主题配置文件/next/_config.yml文件内menu下的archives 键值||前的空格删除可以删除%20，避免出现404现象。</p>
-<p>自己的hexo s和hexo d无法使用，npm install后仍无法使用，发现是根目录下_config.yml的plugins出错。</p>
-<h2 id="RSS订阅"><a href="#RSS订阅" class="headerlink" title="RSS订阅"></a>RSS订阅</h2><p><strong>Q:</strong> 为什么打开 atom.xml 是一段莫名其妙的代码？<br><strong>A:</strong> 你的浏览器没有自动跳转，可以更换浏览器，检查是否安装了 RSS 阅读器，或者直接订阅 URL</p>
-]]></content>
-      <tags>
-        <tag>hexo</tag>
-      </tags>
   </entry>
   <entry>
     <title>周记1</title>
