@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>diary_1</title>
+    <url>/2020/02/01/2020diary01/</url>
+    <content><![CDATA[<p>弄了一个晚上，终于在笔记本上搭好了hexo，之前的markdown语法和图片显示的问题没有解决。</p>
+<a id="more"></a>
+
+<p>hexo init 出错：cant resolve github.com<br>查询是否使用代理：git config –global http.proxy<br>取消代理：git config –global –unset http.proxy</p>
+<p>Local hexo 无法找到时：<br>npm install</p>
+<p>ERROR Deployer not found: git<br>npm install –save hexo-deployer-git</p>
+<p>目前未找到删除文章的指令，可以到目录/source/_posts下删除相应的文章，然后重新生成部署即可</p>
+<p>到目录/source/_posts下删除相应的文章<br>$ hexo g<br>$ hexo d</p>
+<p>修改footer 里面的@ author:<br>修改_config.yml 中的author为自己定义的author</p>
+<p>域名：<br>新增source/CNAME文件<br>写入需要绑定的域名</p>
+]]></content>
+      <categories>
+        <category>技能</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>20200216小记</title>
     <url>/2020/02/16/20200216%E5%B0%8F%E8%AE%B0/</url>
     <content><![CDATA[<p>《被讨厌的勇气》</p>
@@ -29,27 +50,6 @@
 
 <p>自己的hexo s和hexo d无法使用，npm install后仍无法使用，发现是根目录下_config.yml的plugins出错。</p>
 <h2 id="RSS订阅"><a href="#RSS订阅" class="headerlink" title="RSS订阅"></a>RSS订阅</h2><p><strong>Q:</strong> 为什么打开 atom.xml 是一段莫名其妙的代码？<br><strong>A:</strong> 你的浏览器没有自动跳转，可以更换浏览器，检查是否安装了 RSS 阅读器，或者直接订阅 URL</p>
-]]></content>
-      <categories>
-        <category>技能</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>diary_1</title>
-    <url>/2020/02/01/2020diary01/</url>
-    <content><![CDATA[<p>弄了一个晚上，终于在笔记本上搭好了hexo，之前的markdown语法和图片显示的问题没有解决。</p>
-<a id="more"></a>
-
-<p>hexo init 出错：cant resolve github.com<br>查询是否使用代理：git config –global http.proxy<br>取消代理：git config –global –unset http.proxy</p>
-<p>Local hexo 无法找到时：<br>npm install</p>
-<p>ERROR Deployer not found: git<br>npm install –save hexo-deployer-git</p>
-<p>目前未找到删除文章的指令，可以到目录/source/_posts下删除相应的文章，然后重新生成部署即可</p>
-<p>到目录/source/_posts下删除相应的文章<br>$ hexo g<br>$ hexo d</p>
-<p>修改footer 里面的@ author:<br>修改_config.yml 中的author为自己定义的author</p>
-<p>域名：<br>新增source/CNAME文件<br>写入需要绑定的域名</p>
 ]]></content>
       <categories>
         <category>技能</category>
@@ -133,26 +133,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/02/01/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<a id="more"></a>
-
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>essay_李文亮事件引发的思考</title>
     <url>/2020/02/07/essay/</url>
     <content><![CDATA[<p>早上看了“李文亮”的新闻。</p>
@@ -193,6 +173,26 @@
       <tags>
         <tag>时评 新冠疫情</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/02/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<a id="more"></a>
+
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
   </entry>
   <entry>
     <title>周记1</title>
