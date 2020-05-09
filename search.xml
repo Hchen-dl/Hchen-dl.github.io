@@ -1,12 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>20200216小记</title>
+    <url>/2020/02/16/20200216%E5%B0%8F%E8%AE%B0/</url>
+    <content><![CDATA[<p>《被讨厌的勇气》</p>
+<p>上午上了一上午的直播课，下午和晚上基本都看哲学去了。</p>
+<p>让我来看看吃饱没事干的人都在干什么。</p>
+<a id="more"></a>
+
+<p>阿勒德的“目的论”，他不注重著述，更喜欢跟人在咖啡店聊天。</p>
+<p>有点毒，辛辣。</p>
+<p>抨击弗洛伊德因果律过于简单，自己归结为勇气律不也过于简单么？</p>
+<p>不可能在人际关系中不受伤，但也不能因噎废食。</p>
+<p>晚上因为楼下卫生间被占着不能洗澡，硬生生从七点拖到了十点上床。/捂脸。强行多看了两三个小时的书。</p>
+]]></content>
+      <categories>
+        <category>读书笔记</category>
+      </categories>
+      <tags>
+        <tag>勇气</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>20200506_hexo</title>
     <url>/2020/05/06/20200506-hexo/</url>
     <content><![CDATA[<p>将主题配置文件/next/_config.yml文件内menu下的archives 键值||前的空格删除可以删除%20，避免出现404现象。</p>
+<a id="more"></a>
+
 <p>自己的hexo s和hexo d无法使用，npm install后仍无法使用，发现是根目录下_config.yml的plugins出错。</p>
 <h2 id="RSS订阅"><a href="#RSS订阅" class="headerlink" title="RSS订阅"></a>RSS订阅</h2><p><strong>Q:</strong> 为什么打开 atom.xml 是一段莫名其妙的代码？<br><strong>A:</strong> 你的浏览器没有自动跳转，可以更换浏览器，检查是否安装了 RSS 阅读器，或者直接订阅 URL</p>
 ]]></content>
+      <categories>
+        <category>技能</category>
+      </categories>
       <tags>
         <tag>hexo</tag>
       </tags>
@@ -15,6 +41,8 @@
     <title>diary_1</title>
     <url>/2020/02/01/2020diary01/</url>
     <content><![CDATA[<p>弄了一个晚上，终于在笔记本上搭好了hexo，之前的markdown语法和图片显示的问题没有解决。</p>
+<a id="more"></a>
+
 <p>hexo init 出错：cant resolve github.com<br>查询是否使用代理：git config –global http.proxy<br>取消代理：git config –global –unset http.proxy</p>
 <p>Local hexo 无法找到时：<br>npm install</p>
 <p>ERROR Deployer not found: git<br>npm install –save hexo-deployer-git</p>
@@ -23,15 +51,20 @@
 <p>修改footer 里面的@ author:<br>修改_config.yml 中的author为自己定义的author</p>
 <p>域名：<br>新增source/CNAME文件<br>写入需要绑定的域名</p>
 ]]></content>
+      <categories>
+        <category>技能</category>
+      </categories>
       <tags>
-        <tag>diary</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
     <title>diary_2_Next主题_图片显示</title>
     <url>/2020/02/02/diary-2-%E8%AF%84%E8%AE%BA%E5%92%8C%E7%BB%9F%E8%AE%A1/</url>
-    <content><![CDATA[<h3 id="next-主题："><a href="#next-主题：" class="headerlink" title="next 主题："></a>next 主题：</h3><p><a href="https://www.jianshu.com/p/ac990cf5382c" target="_blank" rel="noopener">https://www.jianshu.com/p/ac990cf5382c</a></p>
+    <content><![CDATA[<h3 id="next-主题评论功能："><a href="#next-主题评论功能：" class="headerlink" title="next 主题评论功能："></a>next 主题评论功能：</h3><p><a href="https://www.jianshu.com/p/ac990cf5382c" target="_blank" rel="noopener">https://www.jianshu.com/p/ac990cf5382c</a></p>
 <p>主要设置theme/next下的config.yml中的valine 和visitor enable为true，且appID 和appKEY正确。</p>
+<a id="more"></a>
+
 <h3 id="图片上传"><a href="#图片上传" class="headerlink" title="图片上传"></a>图片上传</h3><p><a href="https://blog.csdn.net/u010996565/article/details/89196612" target="_blank" rel="noopener">https://blog.csdn.net/u010996565/article/details/89196612</a></p>
 <p>npm install hexo-asset-image –save</p>
 <p><img src="/2020/02/02/diary-2-%E8%AF%84%E8%AE%BA%E5%92%8C%E7%BB%9F%E8%AE%A1/test.png" alt="test"></p>
@@ -39,8 +72,11 @@
 <h3 id="图片插入仍然失败："><a href="#图片插入仍然失败：" class="headerlink" title="图片插入仍然失败："></a>图片插入仍然失败：</h3><p><a href="https://blog.csdn.net/xjm850552586/article/details/84101345" target="_blank" rel="noopener">https://blog.csdn.net/xjm850552586/article/details/84101345</a></p>
 <p>根据此博客修改index后成功</p>
 ]]></content>
+      <categories>
+        <category>技能</category>
+      </categories>
       <tags>
-        <tag>diary</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -50,37 +86,11 @@
 <p>下午的时候老妈每个小时来投喂一次。-^-.  太闲了一直在做厨房看抖音做东西，自己说好的每天写一千字呢？？？</p>
 <p>明天请写1000-2000字好吧。</p>
 ]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
       <tags>
-        <tag>diary</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20200216小记</title>
-    <url>/2020/02/16/20200216%E5%B0%8F%E8%AE%B0/</url>
-    <content><![CDATA[<p>《被讨厌的勇气》</p>
-<p>上午上了一上午的直播课，下午和晚上基本都看哲学去了。</p>
-<p>让我来看看吃饱没事干的人都在干什么。</p>
-<p>阿勒德的“目的论”，他不注重著述，更喜欢跟人在咖啡店聊天。</p>
-<p>有点毒，辛辣。</p>
-<p>抨击弗洛伊德因果律过于简单，自己归结为勇气律不也过于简单么？</p>
-<p>不可能在人际关系中不受伤，但也不能因噎废食。</p>
-<p>晚上因为楼下卫生间被占着不能洗澡，硬生生从七点拖到了十点上床。/捂脸。强行多看了两三个小时的书。</p>
-]]></content>
-      <tags>
-        <tag>diary</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>diary-4-毕业论文</title>
-    <url>/2020/02/05/diary-4-%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87/</url>
-    <content><![CDATA[<p>上午写了两三个小时的毕业论文，五百字左右.</p>
-<p>下午开始就没怎么学习了，改了点小论文啥的。</p>
-<p>晚上完了一个晚上的炉石一直到深夜。</p>
-<p>早上起来看见了“全能政府”的不足。</p>
-<p>客观看待吧，自己能接触到的社会看不到很多东西。这个角度还是比较独特的，不过，也一定可信，没有实际性的证据。</p>
-]]></content>
-      <tags>
-        <tag>diary</tag>
+        <tag>整活</tag>
       </tags>
   </entry>
   <entry>
@@ -89,14 +99,19 @@
     <content><![CDATA[<p>除了上午交了一篇论文，其余时间几乎都在搓炉石。</p>
 <p>傍晚开始看东方启动点，浙江改革。</p>
 <p>浙江“民劳则思”，“被迫”弃农从商，从工。</p>
+<a id="more"></a>
+
 <p>风光一时无两，但背后有血泪，有自己的，也有他人的。</p>
 <p>而江苏、山东、广东，又不知是什么风景。</p>
 <p>江西又如何。</p>
 <p>昨天打个羽毛球身上湿了没换衣服，有点凉。晚上胸口也有些闷。</p>
 <p>今天担心自己病了赶紧测了测体温，正常后松了一口气。</p>
 ]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
       <tags>
-        <tag>diary</tag>
+        <tag>浙江</tag>
       </tags>
   </entry>
   <entry>
@@ -104,6 +119,8 @@
     <url>/2020/02/07/essay/</url>
     <content><![CDATA[<p>早上看了“李文亮”的新闻。</p>
 <p>私以为这件事其实没有很多很过分的地方。李在群里发的消息被断章取义，公安收到虚假信息而错怪，事实上李自己是不觉得自己遭受了多大的不公平的待遇的，他只是觉得应该尊重不一样的声音的权力。</p>
+<a id="more"></a>
+
 <p>对于当下的疫情，对于李的事件，我(们)会去思考。</p>
 <h3 id="责怪什么"><a href="#责怪什么" class="headerlink" title="责怪什么"></a>责怪什么</h3><p>是体制出了问题吗？</p>
 <p>换其他政府会有不一样的举动么？或许会，但假使很早封城，病情很早就被控制在武汉，恐怕许多人会觉得大惊小怪了，区区流感而不让人回家过年。  政府或者是政府的人员或许没有做得很过分。自己得出的这个结论也许由于自己见识浅薄，不过欢迎给我上课。</p>
@@ -132,8 +149,49 @@
 <p>而另一方面很多做出改变的，其实也还是政府，是我们政府。骂归骂，我始终坚信我们国家，我们政府，会在我们自身的努力下，不断前行。</p>
 <p>“社会需要不同的声音，尤其是在互联网下”。“从自身出发”。</p>
 ]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
       <tags>
-        <tag>essay</tag>
+        <tag>时评 新冠疫情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/02/01/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<a id="more"></a>
+
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>diary-4-毕业论文</title>
+    <url>/2020/02/05/diary-4-%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87/</url>
+    <content><![CDATA[<p>上午写了两三个小时的毕业论文，五百字左右.</p>
+<p>下午开始就没怎么学习了，改了点小论文啥的。</p>
+<p>晚上完了一个晚上的炉石一直到深夜。</p>
+<a id="more"></a>
+
+<p>早上起来看见了“全能政府”的不足。</p>
+<p>客观看待吧，自己能接触到的社会看不到很多东西。这个角度还是比较独特的，不过，也一定可信，没有实际性的证据。</p>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+      <tags>
+        <tag>全能政府</tag>
       </tags>
   </entry>
   <entry>
@@ -141,6 +199,8 @@
     <url>/2020/05/07/%E5%91%A8%E8%AE%B01/</url>
     <content><![CDATA[<p>时隔三个月重拾博客，这有个好处就是不用担心稿子过审。/狗头</p>
 <p>定下宏愿至少保持周更。</p>
+<a id="more"></a>
+
 <h3 id="论文盲审通过"><a href="#论文盲审通过" class="headerlink" title="论文盲审通过"></a>论文盲审通过</h3><p>首先要记一下基本上是本年以来最开心的事情吧，自己论文送审过了，看得出来，老师也很开心很开心。评价里得知自己做的东西居然还算是关键技术，算是机密了，还是有些开心的。而且自己心里的一块石头也终于落地了，在此之前还是比较担心的，因为其实融合原理自己都不确定就往上写了。心想着万一不过，就当是人生的一次挫折吧，毕竟自己似乎生活有些顺风顺水了。人生不如意之事十之八九，自己在小学还是初中知道这句话之后就常这么安慰自己。总之此次能过审还是及其开心的，同时也希望自己不要过于浮躁，静下心来该干嘛干嘛，以及，希望自己今后也时刻冷静。</p>
 <h3 id="最近看剧感想"><a href="#最近看剧感想" class="headerlink" title="最近看剧感想"></a>最近看剧感想</h3><p>小时候看仙剑很喜欢李逍遥和赵灵儿，现在反而更喜欢晋元和月如。</p>
 <p>小时候看双龙传很喜欢师妃暄和李秀宁，现在更喜欢宋玉致和绾绾。</p>
@@ -170,27 +230,11 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/02/01/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>读书笔记0509</title>
     <url>/2020/05/09/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B00509/</url>
     <content><![CDATA[<p>南昌、赣州、吉安、上饶、抚州、九江、宜春、景德镇、萍乡、鹰潭、新余；十一个设区市。 </p>
+<a id="more"></a>
+
 <h3 id="吉安"><a href="#吉安" class="headerlink" title="吉安"></a>吉安</h3><p>吉安-古称庐陵。辖井冈山。</p>
 <h3 id="上饶"><a href="#上饶" class="headerlink" title="上饶"></a>上饶</h3><p>婺源县原属徽州；</p>
 <p>鄱阳湖蓄五水入长江；</p>
