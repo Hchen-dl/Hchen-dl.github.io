@@ -171,7 +171,8 @@
         <category>随笔</category>
       </categories>
       <tags>
-        <tag>时评 新冠疫情</tag>
+        <tag>时评</tag>
+        <tag>新冠疫情</tag>
       </tags>
   </entry>
   <entry>
@@ -229,7 +230,8 @@
         <category>weekly</category>
       </categories>
       <tags>
-        <tag>剧评 碎碎念</tag>
+        <tag>剧评</tag>
+        <tag>碎碎念</tag>
       </tags>
   </entry>
   <entry>
@@ -290,7 +292,9 @@
         <category>weekly</category>
       </categories>
       <tags>
-        <tag>碎碎念 选调初心 心理学</tag>
+        <tag>碎碎念</tag>
+        <tag>选调初心</tag>
+        <tag>心理学</tag>
       </tags>
   </entry>
 </search>
